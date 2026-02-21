@@ -1,12 +1,31 @@
-# Hello 👋, I'm Habiba
-### Full-Stack Developer | Web & Cross-Platform Mobile
+<!-- Centered typing header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=8000&pause=2000&color=FF69B4&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B,+I'm+Habiba;Full-Stack+Developer+%7C+Web+%26+Mobile+Cross-Platform" alt="Typing SVG" />
+</p>
 
-🎓 Web & Mobile Application Engineering student  </br>
-💻 Focusing on MERN, and cross-platform mobile apps   </br>
-📈 Improving my skills in clean architecture and UX/UI design
+<!-- Right-aligned GIF with text flowing on the left -->
+<p>
+  <img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRyNHhneDZ1OXJpZ2hrYWl5ODZodHE2ZGk2eGFyOXIwNHFnZG5jeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" alt="Coding GIF" />
+  
+🎓 **Web & Mobile Application Engineering student**  <br>
+<br>
+💻 **Focusing on MERN & cross-platform mobile apps**  <br>
+<br>
+📈 **Improving skills in clean architecture & UX/UI design**  <br>
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/habiba-el-mahfoudi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+</p>
+
+---
+
+<!-- Contact badges aligned center -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/habiba-el-mahfoudi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:elmahfoudihabiba666@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
 ## Skills
 
@@ -29,20 +48,15 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=hbhabiba121-hash&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hbhabiba121-hash&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbhabiba121-hash&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hbhabiba121-hash&theme=null" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/hbhabiba121-hash/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=hbhabiba121-hash" alt="trophy" />
 
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hbhabiba121-hash&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
 
+
+###
 
