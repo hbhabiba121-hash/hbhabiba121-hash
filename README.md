@@ -1,7 +1,7 @@
-## Hi there 👋 I’m Habiba! 
+## Hi , I’m Habiba! 
 
 A passionate **Full-Stack Developer | Web & Mobile Cross-Platform**  
-✨ I love creating **beautiful and user-friendly applications**  
+I love creating **beautiful and user-friendly applications**  
 
 ---
 
