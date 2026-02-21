@@ -1,4 +1,4 @@
-## Hi there 👋 I’m Habiba! 💖
+## Hi there 👋 I’m Habiba! 
 
 A passionate **Full-Stack Developer | Web & Mobile Cross-Platform**  
 ✨ I love creating **beautiful and user-friendly applications**  
@@ -23,15 +23,3 @@ A passionate **Full-Stack Developer | Web & Mobile Cross-Platform**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-### 🎨 What I Love
-- UX/UI Design & creating **user-friendly apps**  
-- AI-powered projects & **smart solutions**  
-- Coding, creativity, and a little coffee ☕  
-
----
-
-### 📊 GitHub Stats
-![Habiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbhabiba121-hash&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbhabiba121-hash&layout=compact&theme=radical)
