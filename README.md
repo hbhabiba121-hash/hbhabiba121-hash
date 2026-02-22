@@ -1,14 +1,12 @@
 <!-- Centered typing header -->
 <p align="center">
-<img
-  src="https://giffiles.alphacoders.com/190/190634.gif"
-  alt="Animated GIF"
-/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=8000&pause=2000&color=FF69B4&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B,+I'm+Habiba;Full-Stack+Developer+%7C+Web+%26+Mobile+Cross-Platform" alt="Typing SVG" />
 </p>
 
 <!-- Right-aligned GIF with text flowing on the left -->
 <p>
-  <img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRyNHhneDZ1OXJpZ2hrYWl5ODZodHE2ZGk2eGFyOXIwNHFnZG5jeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" alt="Coding GIF" />
+  <img align="right" height="250" src="https://giffiles.alphacoders.com/190/190634.gif"
+  alt="Animated GIF" />
   
 🎓 **Web & Mobile Application Engineering student**  <br>
 <br>
