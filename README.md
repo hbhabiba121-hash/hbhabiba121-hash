@@ -1,6 +1,9 @@
 <!-- Centered typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=8000&pause=2000&color=FF69B4&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B,+I'm+Habiba;Full-Stack+Developer+%7C+Web+%26+Mobile+Cross-Platform" alt="Typing SVG" />
+<img
+  src="https://giffiles.alphacoders.com/190/190634.gif"
+  alt="Animated GIF"
+/>
 </p>
 
 <!-- Right-aligned GIF with text flowing on the left -->
