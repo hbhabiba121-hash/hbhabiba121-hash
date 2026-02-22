@@ -13,7 +13,7 @@
 </p>
 <!-- Right-aligned GIF with text flowing on the left -->
 <p>
-  <img align="right" height="230" src="https://giffiles.alphacoders.com/190/190634.gif"
+  <img align="right" height="200" src="https://giffiles.alphacoders.com/190/190634.gif"
   alt="Animated GIF" />
   </p>
    <br>
