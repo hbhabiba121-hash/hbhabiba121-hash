@@ -2,22 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=8000&pause=2000&color=FF69B4&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B,+I'm+Habiba;Full-Stack+Developer+%7C+Web+%26+Mobile+Cross-Platform" alt="Typing SVG" />
 </p>
-
-<!-- Right-aligned GIF with text flowing on the left -->
-<p>
-  <img align="right" height="250" src="https://giffiles.alphacoders.com/190/190634.gif"
-  alt="Animated GIF" />
-  
-🎓 **Web & Mobile Application Engineering student**  <br>
-<br>
-💻 **Focusing on MERN & cross-platform mobile apps**  <br>
-<br>
-📈 **Improving skills in clean architecture & UX/UI design**  <br>
-
-</p>
-
----
-
 <!-- Contact badges aligned center -->
 <p align="center">
   <a href="https://www.linkedin.com/in/habiba-el-mahfoudi/" target="_blank">
@@ -27,6 +11,23 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+<!-- Right-aligned GIF with text flowing on the left -->
+<p>
+  <img align="right" height="230" src="https://giffiles.alphacoders.com/190/190634.gif"
+  alt="Animated GIF" />
+  </p>
+   <br>
+  
+🎓 **Web & Mobile Application Engineering student**  <br>
+<br>
+💻 **Focusing on MERN & cross-platform mobile apps**  <br>
+<br>
+📈 **Improving skills in clean architecture & UX/UI design**  <br>
+
+</p>
+
+
+<br>
 
 ## Skills
 
