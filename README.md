@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/habiba-el-mahfoudi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:elmahfoudihabiba666@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=elmahfoudihabiba666@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
