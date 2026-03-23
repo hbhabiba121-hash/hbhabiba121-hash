@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+
 <!-- Right-aligned GIF with text flowing on the left -->
 <p>
   <img align="right" height="200" src="https://giffiles.alphacoders.com/190/190634.gif"
@@ -54,6 +56,15 @@
   <img src="https://streak-stats.demolab.com?user=hbhabiba121-hash&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
+<!-- 👇 Profile view counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hbhabiba121-hash&style=for-the-badge&color=FF69B4" alt="Profile Views" />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hbhabiba121-hash&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
 
 ## GitHub Activity Graph
 
